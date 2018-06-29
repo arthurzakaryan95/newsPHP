@@ -1,0 +1,16 @@
+span{
+	color: red;
+}
+h1{
+  text-align: center;
+}
+h4{
+  font-style: italic;
+  text-decoration: underline;
+}
+p{
+  color: #6dbfbf;
+}
+.inputnews{
+	margin-left: 10px;
+}
